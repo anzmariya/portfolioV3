@@ -5,10 +5,10 @@ import { Container, SectionTitle, Badge } from '../ui'
 import { cn } from '../../utils/cn'
 
 const SOCIALS = [
-  { icon: Github,   label: 'GitHub',   href: 'https://github.com',   handle: '@alexchen' },
-  { icon: Linkedin, label: 'LinkedIn', href: 'https://linkedin.com', handle: 'in/alexchen' },
-  { icon: Twitter,  label: 'Twitter',  href: 'https://twitter.com',  handle: '@alexchendev' },
-  { icon: Mail,     label: 'Email',    href: 'mailto:hello@alexchen.dev', handle: 'hello@alexchen.dev' },
+  { icon: Github,   label: 'GitHub',   href: 'https://github.com/anzmariya',   handle: '@anzmariya' },
+  { icon: Linkedin, label: 'LinkedIn', href: 'https://www.linkedin.com/in/anz-mariya-davis-9078b6183/', handle: 'in/anzmariyadavis' },
+  // { icon: Twitter,  label: 'Twitter',  href: 'https://twitter.com',  handle: '@alexchendev' },
+  { icon: Mail,     label: 'Email',    href: 'mailto:davisanzmariya@gmail.com', handle: 'davisanzmariya@gmail.com' },
 ]
 
 const INFO = [

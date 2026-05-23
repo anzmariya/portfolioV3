@@ -77,7 +77,7 @@ export function Projects() {
           className="text-center mt-14"
         >
           <a
-            href="https://github.com"
+            href="https://github.com/anzmariya"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-secondary inline-flex"

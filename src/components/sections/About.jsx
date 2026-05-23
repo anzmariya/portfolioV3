@@ -10,7 +10,7 @@ const HIGHLIGHTS = [
 ]
 
 const CURRENTLY = [
-  { label: 'Role',     value: 'MERN Stack Developer @ UAE' },
+  { label: 'Role',     value: 'MERN Stack Developer' },
   { label: 'Stack',    value: 'React, TypeScript, Node.js' },
   { label: 'Based',    value: 'Kerala, India' },
   { label: 'Status',   value: 'Open to new opportunities' },

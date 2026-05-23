@@ -23,10 +23,10 @@ const NAV_COLS = [
 ]
 
 const SOCIALS = [
-  { icon: Github,   href: 'https://github.com',   label: 'GitHub'   },
-  { icon: Linkedin, href: 'https://linkedin.com', label: 'LinkedIn' },
-  { icon: Twitter,  href: 'https://twitter.com',  label: 'Twitter'  },
-  { icon: Mail,     href: 'mailto:hello@alexchen.dev', label: 'Email' },
+  { icon: Github,   href: 'https://github.com/anzmariya',   label: 'GitHub'   },
+  { icon: Linkedin, href: 'https://www.linkedin.com/in/anz-mariya-davis-9078b6183/', label: 'LinkedIn' },
+  // { icon: Twitter,  href: 'https://twitter.com',  label: 'Twitter'  },
+  { icon: Mail,     href: 'mailto:davisanzmariya@gmail.com', label: 'Email' },
 ]
 
 export function Footer() {
